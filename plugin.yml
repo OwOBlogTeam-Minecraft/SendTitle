@@ -1,0 +1,21 @@
+name: sendTitle
+main: Teaclon\sendTitle\Main
+version: "1.0.0"
+api: 
+  - 1.0.0
+  - 1.0.0
+  - 2.0.0
+  - 3.0.0
+  - 3.0.0-ALPHA10
+  - 3.0.0-ALPHA11
+  - 3.0.0-ALPHA12
+  - 3.3.1
+  - 3.3.2
+  - 4.0.0
+author: Teaclon
+load: POSTWORLD
+
+commands:
+  st:
+    description: "sendTitle的总指令"
+    usage: "用法: /st help 查看帮助"
